@@ -1,3 +1,5 @@
+# SQL drawable app
+
 <div align="center">
     <img width="64" alt="drawdb logo" src="./src/assets/icon-dark.png">
     <h1>drawDB</h1>
